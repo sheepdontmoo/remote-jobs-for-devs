@@ -53,6 +53,7 @@
 | 45 | Working Nomads | [Working Nomads Jobs](https://www.workingnomads.co/jobs) |
 | 46 | Remote100K | [Remote100K](https://remote100k.com/) |
 | 47 | Levels.fyi Jobs | [Levels.fyi Jobs](https://www.levels.fyi/jobs) |
+| 48 | Remote1st | [Remote1st](https://www.remote1stjobs.com) |
 
 ### Key Takeaways:
 
